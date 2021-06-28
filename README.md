@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @junling2
+- 👋 Hi, I’m Junling Qu
 - 👀 I’m interested in Software Engineering, FPS games, and Formula 1 Racing
 - 🌱 I’m currently working on personal projects and practicing Data Structures & Algorithms
 - 💞️ I’m looking to gain experience in entry level software development  

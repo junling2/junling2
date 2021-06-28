@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @junling2
 - 👀 I’m interested in Software Engineering, FPS games, and Formula 1 Racing
-- 🌱 I’m currently learning advanced algorithms and studying for Java SE 11 Certification
-- 💞️ I’m looking to gain experience in game and mobile applications development  
+- 🌱 I’m currently working on personal projects and practicing Data Structures & Algorithms
+- 💞️ I’m looking to gain experience in entry level software development  
 - 📫 How to reach me: junling2@ualberta.ca
 
 <!---

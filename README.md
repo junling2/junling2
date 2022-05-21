@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Junling Qu
 - 👀 I’m interested in Software Engineering, Soccer, and Formula 1 Racing
 - 🌱 I’m currently working on personal projects and practicing Data Structures & Algorithms
-- 💞️ I’m looking for intermeidate or senior software development or SDET positions  
+- 💞️ I’m looking for intermediate or senior software development or SDET positions  
 - 📫 How to reach me: junling2@ualberta.ca
 
 <!---
